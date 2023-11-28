@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Arpan Sankesh and I'm a Frontend Developer, from India</p>
+<p align="left">My name is Arpan Sankesh and I'm a Frontend Developer, from India</p>
 
 ###
 
