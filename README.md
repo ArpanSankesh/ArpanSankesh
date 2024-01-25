@@ -1,3 +1,6 @@
+
+![Blue and White Abstract Technology LinkedIn Banner](https://github.com/ArpanSankesh/ArpanSankesh/assets/121539675/937471c6-9481-4c0a-8a02-44d0b8211653)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
