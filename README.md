@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning React<br><br>🎯 Goals: To utilize coding skills to solve real-world problems and contribute meaningfully to creating innovative solutions that positively impact society.<br><br>🎲 Fun fact: I prefer dark mode? Because light attracts bugs!😁😁</p>
+<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning Backend<br><br>🎯 Goals: To utilize coding skills to solve real-world problems and contribute meaningfully to creating innovative solutions that positively impact society.<br><br>🎲 Fun fact: I prefer dark mode? Because light attracts bugs!😁😁</p>
 
 ###
 
@@ -41,5 +41,5 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+https://www.linkedin.com/in/arpan-sankesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
