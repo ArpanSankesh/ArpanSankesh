@@ -1,4 +1,4 @@
-![HelloBanner-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/08d4740f-2bc5-49bc-a640-ef0233fb2949)
+![Blue and White Abstract Technology LinkedIn Banner](https://github.com/ArpanSankesh/ArpanSankesh/assets/121539675/937471c6-9481-4c0a-8a02-44d0b8211653)
 
 # Yoo, I'm Arpan Sankesh! 👋 
 
