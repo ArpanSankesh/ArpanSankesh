@@ -1,7 +1,11 @@
+https://github.com/user-attachments/assets/b23fe84f-0d7a-4a05-9536-5bcc097e2e8e
 
-![Blue and White Abstract Technology LinkedIn Banner](https://github.com/ArpanSankesh/ArpanSankesh/assets/121539675/937471c6-9481-4c0a-8a02-44d0b8211653)
+
 
 # Yoo, I'm Arpan Sankesh! 👋 
+
+
+
 
 ###
 
