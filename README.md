@@ -21,7 +21,18 @@ I’m a **Junior Software Engineer** 👩‍💻 with expertise in **full-stack 
 
 ###
 
-<h1 align="left">Skills...</h1>
+## 💻 My Skills
+
+### Development:
+- **Frontend**: HTML5, CSS3, JavaScript, React.js
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+
+### Problem-Solving & DSA:
+- **Language**: Java
+- **Focus Areas**: Data Structures, Algorithms
+- **Platforms**: LeetCode
 
 ###
 
