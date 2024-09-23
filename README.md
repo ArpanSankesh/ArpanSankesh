@@ -10,17 +10,7 @@
 
 I’m a **Junior Software Engineer** 👩‍💻 with expertise in **full-stack web development** 🌐 using the **MERN stack** (MongoDB, Express, React, Node.js) 💻. I have a strong foundation in **Data Structures and Algorithms (DSA)** 🧩, with **Java**☕. I’m passionate about solving complex problems 🔍, whether it’s optimizing algorithms or building scalable systems 🚀. 
 
-
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning Backend<br><br>🎯 Goals: To utilize coding skills to solve real-world problems and contribute meaningfully to creating innovative solutions that positively impact society.<br><br>🎲 Fun fact: I prefer dark mode? Because light attracts bugs!😁😁</p>
-
-###
-
 ## 💻 My Skills
 
 ### Development:
