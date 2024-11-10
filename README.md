@@ -2,13 +2,9 @@
 
 # Yoo, I'm Arpan Sankesh! 👋 
 
-
-
-
-
 ###
 
-I’m a **Junior Software Engineer** 👩‍💻 with expertise in **full-stack web development** 🌐 using the **MERN stack** (MongoDB, Express, React, Node.js) 💻. I have a strong foundation in **Data Structures and Algorithms (DSA)** 🧩, with **Java**☕. I’m passionate about solving complex problems 🔍, whether it’s optimizing algorithms or building scalable systems 🚀. 
+**Junior Software Engineer** 👩‍💻 with expertise in **full-stack web development** 🌐 using the **MERN stack** (MongoDB, Express, React, Node.js) 💻. I have a strong foundation in **Data Structures and Algorithms (DSA)** 🧩, with **Java**☕. I’m passionate about solving complex problems 🔍, whether it’s optimizing algorithms or building scalable systems 🚀. 
 
 ###
 ## 💻 My Skills
@@ -48,5 +44,6 @@ I’m a **Junior Software Engineer** 👩‍💻 with expertise in **full-stack 
 
 ###
 
-https://www.linkedin.com/in/arpan-sankesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arpan-sankesh/))
+
 
