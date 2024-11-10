@@ -44,7 +44,8 @@
 
 ###
 
-[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn logo" width="25px"/>](https://www.linkedin.com/in/arpan-sankesh/)
+[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn logo" height="45px"/>](https://www.linkedin.com/in/arpan-sankesh/)
+
 
 
 
