@@ -44,6 +44,7 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arpan-sankesh/))
+[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn logo" width="25px"/>](https://www.linkedin.com/in/arpan-sankesh/)
+
 
 
