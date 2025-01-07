@@ -7,7 +7,7 @@
 **Junior Software Engineer** 👩‍💻 with expertise in **full-stack web development** 🌐 using the **MERN stack** (MongoDB, Express, React, Node.js) 💻. I have a strong foundation in **Data Structures and Algorithms (DSA)** 🧩, with **Java**☕. I’m passionate about solving complex problems 🔍, whether it’s optimizing algorithms or building scalable systems 🚀. 
 
 ###
-## 💻 My Skills
+## 💻 My Skills..
 
 ### Development:
 - **Frontend**: HTML5, CSS3, JavaScript, React.js
