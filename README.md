@@ -8,7 +8,7 @@
 
 ---
 
-🎯 I’m an aspiring **Software Engineer** with a strong foundation in **JavaScript**, **Java**, and the **MERN stack** (MongoDB, Express, React, Node.js).  
+🎯 I’m a **Software Engineer** with a strong foundation in **JavaScript**, **Java**, and the **MERN stack** (MongoDB, Express, React, Node.js).  
 🧠 Passionate about turning complex problems into clean, scalable solutions.  
 🎓 BCA Graduate from **ARKA JAIN University**.  
 💻 Currently improving system design and refining my coding skills on platforms like **LeetCode**.
